@@ -1,0 +1,6 @@
+http://localhost:8888/notebooks/Student_Marks_Prediction.ipynb
+ 
+
+
+
+THIS LINKS WORKS ON JUYPTER NOTEBOOK
